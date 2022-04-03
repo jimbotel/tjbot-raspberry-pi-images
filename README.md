@@ -14,7 +14,7 @@ More info about TJBot activities:
  - Several forms of Visual Recognition added using [Model Asset eXchange](https://ml-exchange.org/models/) [Node-RED nodes](https://flows.nodered.org/node/node-red-contrib-model-asset-exchange) (can be consumned using [docker images](https://hub.docker.com/u/codait) installed on a separate PC)
 
 ### Changes:
- - Based on tjbot lib v2.0.2 (well, right now a [patched version](https://github.com/jimbotel/tjbotlib) of it until I do a Pull Request is done/accepted)
+ - Based on tjbot lib v2.0.2 (well, right now a [patched version](https://github.com/jimbotel/tjbotlib) of it until a Pull Request I did is accepted)
  - Using a new ["patched" version](https://github.com/jimbotel/node-red-contrib-tjbot) of Jean Carl's TJBot Node-RED nodes 
  - Using current (as of Feb 2022) Node.js (v14.19.0) / Node-RED (v2.2.0) versions
  - Using latest (January 28th 2022) release of "Raspberry Pi OS (Legacy) with desktop":  

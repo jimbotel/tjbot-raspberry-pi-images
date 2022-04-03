@@ -5,8 +5,8 @@ More info about TJBot activities:
  [What’s Possible With AI – TJ Bot](https://www.ibm.com/ibm/responsibility/initiatives/activitykits/tjbot/)
 
 
-## New 2022 !! Renewed common image for rpi3 and rpi4:
-**Available at:** https://ibm.box.com/s/vpf4mh9kisn21kzbp3mq7aigy7siijdq
+## New 2022 (April 3) !! Renewed common image for rpi3 and rpi4:
+**Available at:** https://ibm.box.com/s/48dt61a6i03lascj52q1jctlk50d97za 
 
 ### What's New:
  - Support for Common Anode LEDs (as well as NeoPixel ones)

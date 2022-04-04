@@ -6,7 +6,7 @@ More info about TJBot activities:
 
 
 ## New 2022 (April 3) !! Renewed common image for rpi3 and rpi4:
-**Available at:** https://ibm.box.com/s/48dt61a6i03lascj52q1jctlk50d97za 
+**Available at:** https://ibm.box.com/s/3f48x4xhkjitjxb6r45xwvkkctcw4wwj
 
 ### What's New:
  - Support for Common Anode LEDs (as well as NeoPixel ones)
